@@ -1,0 +1,9 @@
+el comando grep Now busca líneas que
+contengan la palabra "Now" en un archivo
+o en la entrada estándar y las muestra en
+la salida estándar. grep es una herramienta
+de búsqueda de patrones en Unix que
+busca ocurrencias de un patrón dado en
+archivos o en la entrada estándar. En este
+caso, busca líneas que contengan la palabra "Now".
+america no lo peta
